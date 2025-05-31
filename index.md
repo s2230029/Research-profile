@@ -3,8 +3,6 @@ layout: default
 title: "Home"
 ---
 
-**Ammazia Hanif**
-
 ## Welcome!
   
 I am currently working as a JSPS Special Research Fellow at the Hitotsubashi University, in Tokyo, Japan. My research focuses on health economics, development economics, 
