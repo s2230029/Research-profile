@@ -8,7 +8,7 @@ title: "CV"
 [Download full CV (PDF)](/assets/ammazia_cv.pdf)
 
 ## Education
-- **Ph.D. Candidate** in International Public Policy, University of Tsukuba (2022–expected 2025)
+- **Ph.D.** in International Public Policy, University of Tsukuba (2025)
 - **M.A.** in International Public Policy, University of Tsukuba (2022)
 - **MBA**, University of Central Punjab, Pakistan (2007)
 
