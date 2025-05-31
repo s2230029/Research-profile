@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# Ammazia Hanif
+**Ammazia Hanif**
 
 ## Welcome!
   
