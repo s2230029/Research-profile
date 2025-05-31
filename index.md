@@ -3,9 +3,14 @@ layout: default
 title: "Home"
 ---
 
-# Ammazia Hanif
+   # Ammazia Hanif
 
-**Ph.D. Candidate, University of Tsukuba**  
-_Field: Health, Development, and Environmental Economics_
+  Welcome!
+  I am currently working as a JSPS Special Research Fellow at the Hitotsubashi University, in Tokyo, Japan. My research focuses on health economics, development economics, 
+  and partly environmental economics, with a particular interest in the health outcomes of WASH, women’s well-being, and child health in developing countries. My current 
+  research projects focus on the health of the women and children in Pakistan, Cambodia, Madagascar, and Sub-Saharan Africa.
 
-I am a Ph.D. candidate in International Public Policy at the University of Tsukuba, Japan. My research focuses on health economics, development economics, and environmental economics, with a particular interest in the health outcomes of sanitation interventions, women’s well-being, and child health in developing countries. I have extensive field and research experience in Pakistan, Cambodia, and Madagascar, and have collaborated with institutions like JIRCAS and Ritsumeikan University.
+  I received my Ph.D. in International Public Policy from University of Tsukuba in Japan.
+
+  My CV
+  Contact : Ammaziahanif409@gmail.com
