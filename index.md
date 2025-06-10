@@ -5,13 +5,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Your Name</title>
+  <title>Ammazia Hanif</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       display: flex;
-      min-height: 100vh;
+      min-height: 80vh;
     }
     .sidebar {
       width: 250px;
@@ -20,7 +20,7 @@
       text-align: center;
     }
     .sidebar img {
-      width: 150px;
+      width: 120px;
       border-radius: 50%;
     }
     .main {
@@ -50,6 +50,7 @@
     <h1>Welcome!</h1>
     <p>I am currently working as a JSPS Special Research Fellow at the Hitotsubashi University, Tokyo, Japan. My research focuses on health economics, development economics, and partly environmental economics, with a particular interest in the health outcomes of WASH, women’s well-being, and child health in developing countries. My current research projects focus on the health of the women and children in Pakistan, India, Cambodia, Madagascar, and Sub-Saharan Africa.
 I received my Ph.D. in International Public Policy from University of Tsukuba in Japan..</p>
+<p><a href="cv.pdf" target="_blank">CV (PDF)</a></p>
   </div>
 </body>
 </html>
