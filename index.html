@@ -6,27 +6,59 @@
   <title>Ammazia Hanif</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
       margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       display: flex;
-      min-height: 100vh;
+      background-color: #f9f9f9;
+      color: #333;
     }
     .sidebar {
-      width: 250px;
-      background: #f4f4f4;
-      padding: 20px;
-      text-align: center;
+      width: 280px;
+      background-color: #2c3e50;
+      color: white;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
     }
     .sidebar img {
-      width: 120px;
+      width: 140px;
+      height: 140px;
       border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 20px;
+      margin-bottom: 20px;
+    }
+    .sidebar nav a {
+      color: #ecf0f1;
+      text-decoration: none;
+      margin: 10px 0;
+      font-size: 16px;
+      display: block;
+      transition: color 0.3s;
+    }
+    .sidebar nav a:hover {
+      color: #1abc9c;
     }
     .main {
-         nav a {
-      display: block;
-      margin: 10px 0;
+      flex: 1;
+      padding: 40px;
+    }
+    .main h1 {
+      font-size: 28px;
+      color: #2c3e50;
+    }
+    .main p {
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+    .main a {
+      color: #1abc9c;
       text-decoration: none;
-      color: #333;
+    }
+    .main a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -44,9 +76,11 @@
   </div>
   <div class="main">
     <h1>Welcome!</h1>
-    <p>I am currently working as a JSPS Special Research Fellow at the Hitotsubashi University, Tokyo, Japan. I received my Ph.D. in International Public Policy from University of Tsukuba,Japan.</p>
+    <p>I am currently working as a JSPS Special Research Fellow at the Hitotsubashi University, Tokyo, Japan. I received my Ph.D. in International Public Policy from University of Tsukuba, Japan.</p>
     <p>My research focuses on health economics, development economics, and partly environmental economics, with a particular interest in the health outcomes of WASH, women’s well-being, and child health in developing countries. My current research projects focus on the health of the women and children in Pakistan, India, Cambodia, Madagascar, and Sub-Saharan Africa.</p>
-    <p><a href="Ammazia_CV.pdf" target="_blank">CV (PDF)</a></p>
+    <p><a href="Ammazia_CV.pdf" target="_blank">Download CV (PDF)</a></p>
     <p>Contact: <a href="mailto:Ammaziahanif409@gmail.com">Ammaziahanif409@gmail.com</a></p>
+  </div>
 </body>
 </html>
+
