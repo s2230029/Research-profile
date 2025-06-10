@@ -38,19 +38,15 @@
 <body>
   <div class="sidebar">
     <img src="amazia.jpeg" alt="Profile Picture" />
-    <h2>Ammazia Hanif</h2>
-    <nav>
-      <a href="#">Home</a>
-      <a href="#">Research</a>
-      <a href="#">CV</a>
-      <a href="#">Contact</a>
-    </nav>
+    <h1>Ammazia Hanif</h1>
   </div>
   <div class="main">
     <h1>Welcome!</h1>
-    <p>I am currently working as a JSPS Special Research Fellow at the Hitotsubashi University, Tokyo, Japan. My research focuses on health economics, development economics, and partly environmental economics, with a particular interest in the health outcomes of WASH, women’s well-being, and child health in developing countries. My current research projects focus on the health of the women and children in Pakistan, India, Cambodia, Madagascar, and Sub-Saharan Africa.
-I received my Ph.D. in International Public Policy from University of Tsukuba in Japan..</p>
+    <p>I am currently working as a JSPS Special Research Fellow at the Hitotsubashi University, Tokyo, Japan. I received my Ph.D. in International Public Policy from University of Tsukuba, Japan.
+    <p>My research focuses on health economics, development economics, and partly environmental economics, with a particular interest in the health outcomes of WASH, women’s well-being, and child health in developing countries. My current research projects focus on the health of the women and children in Pakistan, India, Cambodia, Madagascar, and Sub-Saharan Africa.
+       </div>
 <p><a href="Ammazia_CV.pdf" target="_blank">CV (PDF)</a></p>
+  Contact: Ammaziahanif409@gmail.com
   </div>
 </body>
 </html>
